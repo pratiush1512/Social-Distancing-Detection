@@ -10,15 +10,6 @@ The demos below will help to visually explain the approach that consists of thre
 2. Calculate the distance between all the instances of humans detected in the frame.
 3. Classify the determined distances as 'Alert' or 'Ok' for social distancing.
 
-### Output (Image)
-![screenshot](https://github.com/ParthPathak27/Social-Distancing-Detector/blob/master/output.jpg)
-
-### Output (Video)
-This demo video is performed on the public “OXFORD TOWN CENTRE” dataset
-
-![This demo video is performed on the public “OXFORD TOWN CENTRE” dataset](https://github.com/ParthPathak27/Social-Distancing-Detector/blob/master/output.gif)
-
-
 ### Requirements:
 
 1. Numpy
@@ -36,4 +27,4 @@ Download yolov3.weights for COCO dataset from this link and add it to your repo,
 * To deploy algorithm on live streaming webcam, python SDD_Camera.py
 
 
-Reference: https://landing.ai/landing-ai-creates-an-ai-tool-to-help-customers-monitor-social-distancing-in-the-workplace/
+
